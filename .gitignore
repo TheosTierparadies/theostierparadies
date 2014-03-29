@@ -1,0 +1,10 @@
+/*
+!/application
+/application/*
+!/application/views
+/application/views/*
+!/application/views/theo
+!/out/
+/out/*
+!/out/theo/
+!.gitignore
